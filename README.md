@@ -1,6 +1,6 @@
-# projeto_perguntas
+# Flutter Quiz
 
-A new Flutter project.
+A basic Flutter project to learn the Flutter basics.
 
 ## Getting Started
 
